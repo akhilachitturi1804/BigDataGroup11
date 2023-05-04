@@ -74,4 +74,16 @@ This is a distribution of the mileage of the cars and the sum of total distance 
 
 # DELIVERABLE 3
 ## 7. Analytics, Machine Learning
-## 8. Evaluation and Optimization![image](https://user-images.githubusercontent.com/113271948/236290684-ac852b42-1cc7-41f3-93f0-52d1de61411c.png)
+## 8. Evaluation and Optimization
+AWS provides many machine learning models and tools for analyzing data. However, linear regression is chosen as it is a great method for showing patterns and relationships between sets of data. Linear regression creates a linear equation to model the connection between two variables based on the observed data. One variable is considered as a cause or explanation, while the other variable depends on it.
+## 9. Results
+The following link provides predicted prices based on specific parameters such as body type and fuel type, after performing pre-processing operations on relevant data and including all necessary parameters. The results of certain inquiries are discussed based on accurate data.
+a)	Which fuel type vehicles are having higher priority?
+The bar graph and pie chart reveal that most vehicles (86%) run on gasoline fuel type, making it the most preferred option. The next popular fuel type is diesel (14%), followed by electric (0%). The visual representations of these graphs can be viewed below.
+<img width="343" alt="image" src="https://user-images.githubusercontent.com/113271948/236291198-4b6572c5-eb89-447b-a5e8-01121a64114c.png">
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/113271948/236291228-224a468a-7243-4a78-b860-e31d472b0145.png">
+b)	What color attracts the most customers?
+The graph depicts the percentage of customers who prefer different car colors. The most preferred car color is white with 28% of customers choosing it. It is followed by grey with 20%, black with 18%, and silver with 11%. The least preferred colors are green with 4%, brown with 2%, and violet with 1%. Overall, most customers prefer darker shades like grey, black, and silver over lighter shades like white, red, green, and yellow.
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/113271948/236291325-5f23bddb-809c-4249-bbb7-ca7d52f582ea.png">
+
+
