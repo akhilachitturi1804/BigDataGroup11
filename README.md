@@ -41,7 +41,7 @@ We uploaded the data to an S3 bucket named it group11project dataset.
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236286928-ac0cbb3f-f2ba-4df1-b15c-05ed2ba1a2cb.png">
 
-### b) Data preparation 
+### b) Dashboard
 Fetching the dataset with Jupyter Notebook, we used the following code to read the dataset:
 
 
