@@ -72,18 +72,6 @@ This is a distribution of the mileage of the cars and the sum of total distance 
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287932-2fa790b7-450a-49e0-9fdb-5b1725361439.png">
 
-
-
- 
- 
- 
-
-
-
- 
-
- 
-
-
-
-
+# DELIVERABLE 3
+## 7. Analytics, Machine Learning
+## 8. Evaluation and Optimization![image](https://user-images.githubusercontent.com/113271948/236290684-ac852b42-1cc7-41f3-93f0-52d1de61411c.png)
