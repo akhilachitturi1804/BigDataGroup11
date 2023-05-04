@@ -54,7 +54,6 @@ Fetching the dataset with Jupyter Notebook, we used the following code to read t
 Quick Sight:
 This is a pie chart representation between the car colour and the Fuel used the cars. This classifies and helps us to understand what type of fuel cars and what colour of cars were sold in that respective domain.
 
-[image](https://user-images.githubusercontent.com/113271948/236287381-7e2f7404-c5b6-4d39-a5c8-7b8716e2a8b2.png)
 
 This is a distribution of the mileage of the cars and the sum of total distance travelled by the car.
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287669-2562a411-536e-4068-b4e5-23a142e44ccd.png">
