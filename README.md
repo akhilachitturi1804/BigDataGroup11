@@ -52,14 +52,22 @@ Fetching the dataset with Jupyter Notebook, we used the following code to read t
 Quick Sight:
 This is a pie chart representation between the car colour and the Fuel used the cars. This classifies and helps us to understand what type of fuel cars and what colour of cars were sold in that respective domain.
 [image](https://user-images.githubusercontent.com/113271948/236287381-7e2f7404-c5b6-4d39-a5c8-7b8716e2a8b2.png)
+
 This is a distribution of the mileage of the cars and the sum of total distance travelled by the car.
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287669-2562a411-536e-4068-b4e5-23a142e44ccd.png">
+
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287700-a5ab3f14-4131-4f26-af67-37e580646b3c.png">
+
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287733-8f2dd9df-9401-4341-bab9-0222f50a1d04.png">
+
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287767-ff051849-4721-4505-a97f-7818bc0a29c0.png">
+
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287803-7637aa20-6eec-469f-82e7-e322a9171d7a.png">
+
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/113271948/236287860-3aba1b59-4208-478f-8575-467a8b0bd7e0.png">
+
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287897-71f32637-e22f-4a03-b912-936f3b3894d2.png">
+
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287932-2fa790b7-450a-49e0-9fdb-5b1725361439.png">
 
 
