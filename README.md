@@ -18,7 +18,9 @@
 All our work can be found in the public repository that has been created on GitHub.
 The link to the repository is -
 https://github.com/akhilachitturi1804/BigDataGroup11
-** ** Car Sales
+** ** Car Sales 
+DATASET
+(https://www.kaggle.com/datasets/ekibee/car-sales-information)
 ## 3. Business Problem or Opportunity, Domain Knowledge
 The dataset we've selected is from Kaggle, where it was gathered from a well-known website with adverts for vehicles for sale. The dataset is updated weekly and contains information about cars in over 18 columns, including columns for the car's price, brand, fuel type, color, mileage, and power. We can determine some helpful information from this data, such as what price range users are most interested in purchasing in, what type of color appeals to people the most, regardless of cost, what fuel type is valued most, and how to use a correlation graph to understand the correlation between various variables that are closely related. This information reveals which variables in the dataset are closely related so that they can be given more weight.
 
