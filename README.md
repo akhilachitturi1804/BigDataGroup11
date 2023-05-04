@@ -75,6 +75,7 @@ This is a distribution of the mileage of the cars and the sum of total distance 
 
 # DELIVERABLE 3
 ## 7. Analytics, Machine Learning
+Amazon's machine learning technologies, such as SageMaker, are utilized for analyzing and implementing machine learning. Prior to being processed by SageMaker, the data is first identified using Amazon Athena and Glue. To achieve optimal results using the best machine learning tools for the dataset's structure, the dataset schema is carefully inspected. Finally, Amazon SageMaker is employed to obtain accurate outcomes. In summary, the process involves using Amazon Athena and Glue for data identification, analyzing the dataset schema to determine the best machine learning tools, and applying SageMaker for obtaining precise results.
 ## 8. Evaluation and Optimization
 AWS provides many machine learning models and tools for analyzing data. However, linear regression is chosen as it is a great method for showing patterns and relationships between sets of data. Linear regression creates a linear equation to model the connection between two variables based on the observed data. One variable is considered as a cause or explanation, while the other variable depends on it.
 ## 9. Results
