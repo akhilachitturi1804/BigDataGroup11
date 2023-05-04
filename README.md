@@ -38,6 +38,7 @@ Finding the variables that affect automobile sales in the US may be the study go
 ## Data Understanding
 ### a) Exploratory Data Analysis:
 We uploaded the data to an S3 bucket named it group11project dataset.
+
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236286928-ac0cbb3f-f2ba-4df1-b15c-05ed2ba1a2cb.png">
 ### b) Data preparation 
 Fetching the dataset with Jupyter Notebook, we used the following code to read the dataset:
@@ -78,12 +79,17 @@ This is a distribution of the mileage of the cars and the sum of total distance 
 AWS provides many machine learning models and tools for analyzing data. However, linear regression is chosen as it is a great method for showing patterns and relationships between sets of data. Linear regression creates a linear equation to model the connection between two variables based on the observed data. One variable is considered as a cause or explanation, while the other variable depends on it.
 ## 9. Results
 The following link provides predicted prices based on specific parameters such as body type and fuel type, after performing pre-processing operations on relevant data and including all necessary parameters. The results of certain inquiries are discussed based on accurate data.
-a)	Which fuel type vehicles are having higher priority?
+a) Which fuel type vehicles are having higher priority?
 The bar graph and pie chart reveal that most vehicles (86%) run on gasoline fuel type, making it the most preferred option. The next popular fuel type is diesel (14%), followed by electric (0%). The visual representations of these graphs can be viewed below.
+
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/113271948/236291198-4b6572c5-eb89-447b-a5e8-01121a64114c.png">
+
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/113271948/236291228-224a468a-7243-4a78-b860-e31d472b0145.png">
-b)	What color attracts the most customers?
+
+b) What color attracts the most customers?
+
 The graph depicts the percentage of customers who prefer different car colors. The most preferred car color is white with 28% of customers choosing it. It is followed by grey with 20%, black with 18%, and silver with 11%. The least preferred colors are green with 4%, brown with 2%, and violet with 1%. Overall, most customers prefer darker shades like grey, black, and silver over lighter shades like white, red, green, and yellow.
+
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/113271948/236291325-5f23bddb-809c-4249-bbb7-ca7d52f582ea.png">
 
 
