@@ -34,3 +34,10 @@ Finding the variables that affect automobile sales in the US may be the study go
 * What are the long-term impacts of our business decisions, and how can we use data to make more informed and sustainable choices?
 * What are the long-term impacts of our business decisions, and how can we use data to make more informed and sustainable choices?
 * How do our products or services compare to those of our competitors in terms of customer satisfaction, and what can we do to improve?
+# Deliverable 2
+## Data Understanding
+### a) Exploratory Data Analysis:
+We uploaded the data to an S3 bucket named it group11project dataset.
+!<img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236286928-ac0cbb3f-f2ba-4df1-b15c-05ed2ba1a2cb.png">
+
+
