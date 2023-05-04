@@ -41,7 +41,8 @@ We uploaded the data to an S3 bucket named it group11project dataset.
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236286928-ac0cbb3f-f2ba-4df1-b15c-05ed2ba1a2cb.png">
 ### b) Data preparation 
 Fetching the dataset with Jupyter Notebook, we used the following code to read the dataset:
-[image](https://user-images.githubusercontent.com/113271948/236287084-35b2ca33-c660-4b36-97ea-6b50a9ac46d3.png)
+
+
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287242-07fb7bdb-91d3-4af9-88b3-1bcfff61ee07.png">
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236287293-e08e1476-1f4c-4f4f-8b1e-5f9e8e7c1665.png">
@@ -51,6 +52,7 @@ Fetching the dataset with Jupyter Notebook, we used the following code to read t
 ## Data preparation:
 Quick Sight:
 This is a pie chart representation between the car colour and the Fuel used the cars. This classifies and helps us to understand what type of fuel cars and what colour of cars were sold in that respective domain.
+
 [image](https://user-images.githubusercontent.com/113271948/236287381-7e2f7404-c5b6-4d39-a5c8-7b8716e2a8b2.png)
 
 This is a distribution of the mileage of the cars and the sum of total distance travelled by the car.
