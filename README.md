@@ -76,7 +76,17 @@ This is a distribution of the mileage of the cars and the sum of total distance 
 # DELIVERABLE 3
 ## 7. Analytics, Machine Learning
 Amazon's machine learning technologies, such as SageMaker, are utilized for analyzing and implementing machine learning. Prior to being processed by SageMaker, the data is first identified using Amazon Athena and Glue. To achieve optimal results using the best machine learning tools for the dataset's structure, the dataset schema is carefully inspected. Finally, Amazon SageMaker is employed to obtain accurate outcomes. In summary, the process involves using Amazon Athena and Glue for data identification, analyzing the dataset schema to determine the best machine learning tools, and applying SageMaker for obtaining precise results.
+![WhatsApp Image 2023-05-04 at 2 06 23 PM](https://user-images.githubusercontent.com/113271948/236299917-b21844a0-9e20-4a23-8dbd-07e0fb3d0874.jpeg)
+
+![WhatsApp Image 2023-05-04 at 2 23 58 PM](https://user-images.githubusercontent.com/113271948/236300014-f442e2af-2c2b-4a9d-84d6-130712c0598c.jpeg)
+
+![WhatsApp Image 2023-05-04 at 2 31 50 PM](https://user-images.githubusercontent.com/113271948/236300039-df05b46e-678b-4686-a8ea-7537968216b4.jpeg)
+
+![WhatsApp Image 2023-05-04 at 2 26 17 PM](https://user-images.githubusercontent.com/113271948/236300070-326d5b38-d598-42a4-b57c-9735366bfa0b.jpeg)
+
+
 ## 8. Evaluation and Optimization
+
 AWS provides many machine learning models and tools for analyzing data. However, linear regression is chosen as it is a great method for showing patterns and relationships between sets of data. Linear regression creates a linear equation to model the connection between two variables based on the observed data. One variable is considered as a cause or explanation, while the other variable depends on it.
 ## 9. Results
 The following link provides predicted prices based on specific parameters such as body type and fuel type, after performing pre-processing operations on relevant data and including all necessary parameters. The results of certain inquiries are discussed based on accurate data.
