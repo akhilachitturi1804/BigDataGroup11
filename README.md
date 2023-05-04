@@ -79,13 +79,16 @@ This is a distribution of the mileage of the cars and the sum of total distance 
 # DELIVERABLE 3
 ## 7. Analytics, Machine Learning
 Amazon's machine learning technologies, such as SageMaker, are utilized for analyzing and implementing machine learning. Prior to being processed by SageMaker, the data is first identified using Amazon Athena and Glue. To achieve optimal results using the best machine learning tools for the dataset's structure, the dataset schema is carefully inspected. Finally, Amazon SageMaker is employed to obtain accurate outcomes. In summary, the process involves using Amazon Athena and Glue for data identification, analyzing the dataset schema to determine the best machine learning tools, and applying SageMaker for obtaining precise results.
-![WhatsApp Image 2023-05-04 at 2 06 23 PM](https://user-images.githubusercontent.com/113271948/236299917-b21844a0-9e20-4a23-8dbd-07e0fb3d0874.jpeg)
 
-![WhatsApp Image 2023-05-04 at 2 23 58 PM](https://user-images.githubusercontent.com/113271948/236300014-f442e2af-2c2b-4a9d-84d6-130712c0598c.jpeg)
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/113271948/236320948-5b952ef7-0bda-4d80-9821-62b765e26396.png">
 
-![WhatsApp Image 2023-05-04 at 2 31 50 PM](https://user-images.githubusercontent.com/113271948/236300039-df05b46e-678b-4686-a8ea-7537968216b4.jpeg)
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/113271948/236320990-a17c929d-70f4-4a6e-beeb-212ef9117673.png">
 
-![WhatsApp Image 2023-05-04 at 2 26 17 PM](https://user-images.githubusercontent.com/113271948/236300070-326d5b38-d598-42a4-b57c-9735366bfa0b.jpeg)
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/113271948/236321013-37f32f38-283c-44b8-b1b0-bc8c25b02c62.png">
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/113271948/236321037-60bdf40f-352b-43c7-a01d-b75ec4c35aff.png">
+
+
 
 
 ## 8. Evaluation and Optimization
@@ -93,20 +96,20 @@ Amazon's machine learning technologies, such as SageMaker, are utilized for anal
 AWS provides many machine learning models and tools for analyzing data. However, linear regression is chosen as it is a great method for showing patterns and relationships between sets of data. Linear regression creates a linear equation to model the connection between two variables based on the observed data. One variable is considered as a cause or explanation, while the other variable depends on it.
 ## 9. Results
 The following link provides predicted prices based on specific parameters such as body type and fuel type, after performing pre-processing operations on relevant data and including all necessary parameters. The results of certain inquiries are discussed based on accurate data.
-a) Which fuel type vehicles are having higher priority?
+### a) Which fuel type vehicles are having higher priority?
 The bar graph and pie chart reveal that most vehicles (86%) run on gasoline fuel type, making it the most preferred option. The next popular fuel type is diesel (14%), followed by electric (0%). The visual representations of these graphs can be viewed below.
 
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/113271948/236291198-4b6572c5-eb89-447b-a5e8-01121a64114c.png">
 
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/113271948/236291228-224a468a-7243-4a78-b860-e31d472b0145.png">
 
-b) What color attracts the most customers?
+### b) What color attracts the most customers?
 
 The graph depicts the percentage of customers who prefer different car colors. The most preferred car color is white with 28% of customers choosing it. It is followed by grey with 20%, black with 18%, and silver with 11%. The least preferred colors are green with 4%, brown with 2%, and violet with 1%. Overall, most customers prefer darker shades like grey, black, and silver over lighter shades like white, red, green, and yellow.
 
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/113271948/236291325-5f23bddb-809c-4249-bbb7-ca7d52f582ea.png">
 
-c) Which brands has gasoline as fuel type after 2015?
+### c) Which brands has gasoline as fuel type after 2015?
 The bar graph represents the number of car brands that had gasoline as their fuel type after the year 2015. Each brand is represented by a horizontal bar, with the length of the bar indicating the number of cars with gasoline as their fuel type. The graph shows that there are several car brands with gasoline as their fuel type after 2015. The highest number of cars belongs to Toyota, followed by Lexus, Mitsubishi, and Honda. Other brands such as Subaru, Suzuki, Nissan, and Lada also have a considerable number of cars with gasoline as their fuel type. The graph clearly shows that gasoline is still a popular fuel type among many car brands even after the year 2015.
 
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/113271948/236296226-ca6d0cf6-19b1-43ce-bbd5-cb8de659361d.png">
