@@ -19,8 +19,18 @@ All our work can be found in the public repository that has been created on GitH
 The link to the repository is -
 https://github.com/akhilachitturi1804/BigDataGroup11
 ** ** Car Sales 
-DATASET
+### DATASET
 (https://www.kaggle.com/datasets/ekibee/car-sales-information)
 ## 3. Business Problem or Opportunity, Domain Knowledge
 The dataset we've selected is from Kaggle, where it was gathered from a well-known website with adverts for vehicles for sale. The dataset is updated weekly and contains information about cars in over 18 columns, including columns for the car's price, brand, fuel type, color, mileage, and power. We can determine some helpful information from this data, such as what price range users are most interested in purchasing in, what type of color appeals to people the most, regardless of cost, what fuel type is valued most, and how to use a correlation graph to understand the correlation between various variables that are closely related. This information reveals which variables in the dataset are closely related so that they can be given more weight.
-
+## 4)  Research Objectives and Question(s)
+### RESEARCH OBJECTIVE
+Finding the variables that affect automobile sales in the US may be the study goal for analyzing the Car Sales Information dataset from Kaggle. Understanding which automotive features—such as make, model, year, price, mileage, fuel type, etc.—have the most effects on sales volume and price as well as how external factors like location and dealer ratings affect sales—could be the specific objective.
+### EXAMPLE DESCRIPTIVE QUESTIONS
+* What are the most common attributes of our customers, and how do they relate to their buying behavior?
+* How do product reviews or ratings affect sales or customer satisfaction, and what are the most common themes or sentiments in the reviews?
+* How does employee productivity vary across different teams or departments, and what factors contribute to the differences?
+### EXAMPLE PREDICTIVE QUESTIONS
+* What are the long-term impacts of our business decisions, and how can we use data to make more informed and sustainable choices?
+* What are the long-term impacts of our business decisions, and how can we use data to make more informed and sustainable choices?
+* How do our products or services compare to those of our competitors in terms of customer satisfaction, and what can we do to improve?
