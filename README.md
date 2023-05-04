@@ -2,7 +2,7 @@
 # Deliverable 1
 ## 1. TEAM
 ### a) Members
-* Nihar Gopidi \
+* Nihar Gopidi 
 * Akhila Chitturi
 * Akhil Vadlakonda
 * Dinesh Reddy Kankanala
