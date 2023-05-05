@@ -148,5 +148,6 @@ The future work includes experimenting with different machine learning models to
 ### 6. Instructions for individuals that may want to use your work?
 The dataset used in this project is sourced from Kaggle, and users who want to reproduce this work will need to set up an AWS environment with the necessary credentials. There may be associated fees for using certain AWS services. Additionally, the user must import the Kaggle data into AWS and configure the AWS SageMaker to execute the Python notebook containing the code. The GitHub repository contains all the necessary details for the procedure, including other requirements.
 ## Implementation of Work / Presentation Video
+https://github.com/akhilachitturi1804/BigDataGroup11/blob/main/Deliverable1_group11.mp4
 
 
