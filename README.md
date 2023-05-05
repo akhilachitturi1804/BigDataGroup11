@@ -123,6 +123,10 @@ The bar graph represents the number of car brands that had gasoline as their fue
 
 ![WhatsApp Image 2023-05-04 at 3 35 17 PM (1)](https://user-images.githubusercontent.com/113271948/236324860-6ef183a6-3cad-4f51-8124-ae743f03be57.jpeg)
 
+### e) what is the price range that customers are looking for?
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/113271948/236365463-00e6898b-f600-4d32-8923-c78a96991b17.png">
+
 
 ## 10. Future Work, Comments
 
