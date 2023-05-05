@@ -26,14 +26,11 @@ The dataset we've selected is from Kaggle, where it was gathered from a well-kno
 ## 4)  Research Objectives and Question(s)
 ### RESEARCH OBJECTIVE
 Finding the variables that affect automobile sales in the US may be the study goal for analyzing the Car Sales Information dataset from Kaggle. Understanding which automotive features—such as make, model, year, price, mileage, fuel type, etc.—have the most effects on sales volume and price as well as how external factors like location and dealer ratings affect sales—could be the specific objective.
-### EXAMPLE DESCRIPTIVE QUESTIONS
-* What are the most common attributes of our customers, and how do they relate to their buying behavior?
-* How do product reviews or ratings affect sales or customer satisfaction, and what are the most common themes or sentiments in the reviews?
-* How does employee productivity vary across different teams or departments, and what factors contribute to the differences?
-### EXAMPLE PREDICTIVE QUESTIONS
-* What are the long-term impacts of our business decisions, and how can we use data to make more informed and sustainable choices?
-* What are the long-term impacts of our business decisions, and how can we use data to make more informed and sustainable choices?
-* How do our products or services compare to those of our competitors in terms of customer satisfaction, and what can we do to improve?
+a) Which fuel type vehicles are having higher priority?
+b) What color attracts the most customers?
+c) Which brands has gasoline as fuel type after 2015?
+d) what is the power range that customers are looking for?
+
 # Deliverable 2
 ## Data Understanding
 ### a) Exploratory Data Analysis:
