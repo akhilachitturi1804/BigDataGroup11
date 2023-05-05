@@ -36,7 +36,9 @@ d) what is the power range that customers are looking for?
 ### a) Exploratory Data Analysis:
 
 The file for conducting Exploratory Data Analysis has been uploaded to AWS Sagemaker, and the link to access the file is provided here.
-(https://github.com/akhilachitturi1804/BigDataGroup11/blob/main/Deliverable-2.ipynb)
+
+https://github.com/akhilachitturi1804/BigDataGroup11/blob/main/Deliverable2.ipynb
+
 We uploaded the data to an S3 bucket named it group11project dataset.
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113271948/236286928-ac0cbb3f-f2ba-4df1-b15c-05ed2ba1a2cb.png">
