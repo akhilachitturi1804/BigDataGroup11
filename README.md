@@ -30,6 +30,7 @@ a) Which fuel type vehicles are having higher priority?
 b) What color attracts the most customers?
 c) Which brands has gasoline as fuel type after 2015?
 d) what is the power range that customers are looking for?
+e) what is the price range that customers are looking for?
 
 # Deliverable 2
 ## Data Understanding
