@@ -98,6 +98,8 @@ Amazon's machine learning technologies, such as SageMaker, are utilized for anal
 AWS provides many machine learning models and tools for analyzing data. However, linear regression is chosen as it is a great method for showing patterns and relationships between sets of data. Linear regression creates a linear equation to model the connection between two variables based on the observed data. One variable is considered as a cause or explanation, while the other variable depends on it.
 ## 9. Results
 The following link provides predicted prices based on specific parameters such as body type and fuel type, after performing pre-processing operations on relevant data and including all necessary parameters. The results of certain inquiries are discussed based on accurate data.
+https://github.com/akhilachitturi1804/BigDataGroup11/blob/main/Deliverable3.ipynb
+
 ### a) Which fuel type vehicles are having higher priority?
 The bar graph and pie chart reveal that most vehicles (86%) run on gasoline fuel type, making it the most preferred option. The next popular fuel type is diesel (14%), followed by electric (0%). The visual representations of these graphs can be viewed below.
 
