@@ -119,6 +119,7 @@ The bar graph represents the number of car brands that had gasoline as their fue
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/113271948/236296226-ca6d0cf6-19b1-43ce-bbd5-cb8de659361d.png">
 
 ### d) what is the power range that customers are looking for?
+For calculating the range of power that the customer are looking for is calculated by including the factors such as brand, body type, fuel type, color. Using linear regression model, we splitted the dataset with 70% as training set and 30% as testing set. We then calculate which power customers are looking for.
 
 ![WhatsApp Image 2023-05-04 at 3 35 17 PM](https://user-images.githubusercontent.com/113271948/236324755-02efac31-4aea-4da0-8511-c97bad93b02e.jpeg)
 
